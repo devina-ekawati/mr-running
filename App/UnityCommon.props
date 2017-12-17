@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>Mr Running</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\Download\mr-running\App\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\Download\mr-running\</UnityProjectDir>
+        <UnityWSAPlayerDir>D:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
