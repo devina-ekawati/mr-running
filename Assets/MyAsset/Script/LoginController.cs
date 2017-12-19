@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using HUX.Focus;
 using HUX.Interaction;
 using HUX.Receivers;
@@ -32,6 +33,7 @@ namespace HUX
             {
                 case "LoginButton":
                     obj.GetComponentInChildren<SpriteRenderer>().sprite = LoginButtonClicked;
+                    SceneManager.LoadScene("Main");
                     break;
                 case "SignUpButton":
                     obj.GetComponentInChildren<SpriteRenderer>().sprite = SignUpButtonClicked;

@@ -8,7 +8,7 @@
 Mr Running.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 Mr Running\App.cs: 7233643D3C9C084795BBF28BA2137AC5
-Mr Running\Mr Running.csproj: EFC82A3ADEF6A7F49F7B6A396DEBF0F5
+Mr Running\Mr Running.csproj: 4BE82DAF96A55A3A061685DE338DD069
 Mr Running\Mr Running.csproj.user: modified
 Mr Running\Package.appxmanifest: EA321B89C4BABE9E67651C4BE586A62C
 Mr Running\project.json: 1D02BC64BAC0D041019673A1C4C51737
